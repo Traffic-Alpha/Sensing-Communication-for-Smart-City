@@ -129,14 +129,16 @@
 </div>
 
 ## **Research Assistants**
-- Lin Kexin (硕士毕业于北京交通大学)
+- LIN Kexin (硕士毕业于北京交通大学)
 - HU Yin (硕士毕业于Rice University, U.S.)
 - LUO Yixin (硕士毕业于中科院)
+- PEI Chengxuan (硕士毕业于复旦大学)
 
 ## **Undergraduate Students**
 - ZHENG Jingze
 - GUO Zhaonian
 - LIU Yu
+- YANG Chen
 - YIN Hongrui
 - WU Yueyan
 
