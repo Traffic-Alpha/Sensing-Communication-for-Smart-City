@@ -2,7 +2,9 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2025
-- Z. Sha, C. Li, W. Yue, N. Cheng, Y. Hui, <ins>A. Pang</ins>, <ins>M.O. Pun</ins>, Z. Sun and Y. Yang, ``Pioneering Air-Ground Integrated Mobility: A Knowledge-Driven Space-Air-Ground Integrated Network for 6G On-Demand Service", accepted for publication in *IEEE Network Mag.*, Jan. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10829629)
+- <ins>X. Ma</ins>, <ins>X. Cui</ins>, <ins>M.O. Pun</ins> and Z. Cheng, "TTS-GAN: A Long-term Time Series Generative Adversarial Network", accepted for publication in *Signal Processing*, June 2025.
+- <ins>Y. Hu</ins>, <ins>X. Ma</ins>, <ins>J. Sui</ins> and <ins>M.O. Pun</ins>, "PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation",  accepted for publication in *APSIPA Trans. on Signal and Information Processing*, June 2025.
+- Z. Sha, C. Li, W. Yue, N. Cheng, Y. Hui, <ins>A. Pang</ins>, <ins>M.O. Pun</ins>, Z. Sun and Y. Yang, "Pioneering Air-Ground Integrated Mobility: A Knowledge-Driven Space-Air-Ground Integrated Network for 6G On-Demand Service", accepted for publication in *IEEE Network Mag.*, Jan. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10829629)
 - <ins>Y. Xie</ins>, <ins>Q. Wu</ins>, <ins>G. Niu</ins>, <ins>M.O. Pun</ins> and Z. Han, "Online Scheduling for Multi-Access in Space-Air-Ground Integrated Networks using iGNNSeq-Enhanced Reinforcement Learning", *IEEE Trans. on Vehicular Technology*, vol. 74, no. 3, pp. 4774-4787, March 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10745741)
 - <ins>J. Sui</ins>, <ins>X. Ma</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 892-906, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
 

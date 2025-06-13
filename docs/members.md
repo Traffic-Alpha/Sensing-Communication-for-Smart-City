@@ -18,6 +18,18 @@
 ## **Graduate Students**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/maxianping.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=YpIBfOkAAAAJ&hl=en" target="_self">MA Xianping</a></div>
+	<div style="font-weight: bold;">Ph.D. Student</div>
+	<div> 本科毕业院校：武汉大学</div>
+	<div>Remote Sensing, Machine Learning</div>
+	<div>Mail: <a href="mailto:xianpingma [at] link.cuhk.edu.cn">xianpingma [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
         <div style="flex-shrink: 0;">
             <img src="../assets/images/members/wangmaonan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
@@ -28,18 +40,6 @@
             <div> 本硕毕业院校：北京邮电大学</div>
             <div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
             <div>Mail: <a href="mailto:maonanwang [at] link.cuhk.edu.cn">maonanwang [at] link.cuhk.edu.cn</a></div>
-        </div>
-    </div>
-    <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-        <div style="flex-shrink: 0;">
-            <img src="../assets/images/members/MaXianping.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
-        </div>
-        <div>
-            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=YpIBfOkAAAAJ&hl=en&oi=ao" target="_self">MA Xianping</a></div>
-            <div style="font-weight: bold;">Ph.D. Student</div>
-            <div> 本科毕业院校：武汉大学</div>
-            <div>Multimodal Fusion, Remote Sensing, Machine Learning</div>
-            <div>Mail: <a href="mailto:ma.xianping125 [at] gmail.com">ma.xianping125 [at] gmail.com</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -129,23 +129,26 @@
 </div>
 
 ## **Research Assistants**
-- LIN Kexin (硕士毕业于北京交通大学)
-- HU Yin (硕士毕业于Rice University, U.S.)
-- LUO Yixin (硕士毕业于中科院)
-- PEI Chengxuan (硕士毕业于复旦大学)
+- LUO Yixin (毕业院校：西安电子科大（本科）, 中科院（硕士）)
+- RAO Jiachen (Visiting student from University of Toronto, Canada)
 
 ## **Undergraduate Students**
-- ZHENG Jingze
-- GUO Zhaonian
-- LIU Yu
-- YANG Chen
-- YIN Hongrui
-- WU Yueyan
+- LI Zhiheng
+- YANG Hao (Visiting undergraduate student from 西北工业大学)
+- YU Yinda (Visiting undergraduate student from 温州肯恩大学)
 
 ## **Alumni**
+### **2025**
+- Dr. MA Xianping （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
+- XIE Weifeng （本科毕业院校：武汉大学）, M.Phil. student, First Job:  BYD (比亚迪)
+- ZHENG Jingze, Undergraduate student, First Job: Ph.D. student at the Ohio State University, U.S.A.
+- WU Yanrui, Undergraduate student, First Job: M.Phil. student at CUHKSZ
+- LI Yutao, Undergraduate student, First Job: Master student at the University of California, San Diego (UCSD), U.S.A.
+- WU Yueyan, Undergraduate student, First Job: Master student at the Carnegie Mellon University (CMU), U.S.A.
+- KANG Zimo, Undergraduate student, First Job: Master student at the Chinese University of Hong Kong, Hong Kong, China
 ### **2024**
 - SUI Jialu （本科毕业院校：山东大学威海）, M.Phil. student, First Job: Ph.D. student at the University of Hong Kong, Hong Kong, China
-- LIANG, Wendi （本科毕业院校：UIC）, M.Phil. student, First Job: Ph.D. student at the University of Electronic Science and Technology of China
+- LIANG Wendi （本科毕业院校：UIC）, M.Phil. student, First Job: Ph.D. student at the University of Electronic Science and Technology of China
 - CUI Xiangyu （本科毕业院校：浙江大学）, M.Phil. student, First Job: HONOR (荣耀), Shenzhen
 - SUN Yuchao （本科毕业院校：澳门科技大学）, M.Phil. student, First Job: BYD (比亚迪)
 - CHEN Yanxi, Undergraduate student, First Job: Master student at the University of California, San Diego (UCSD), U.S.A.
