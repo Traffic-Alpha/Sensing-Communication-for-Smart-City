@@ -136,6 +136,7 @@
 - LI Zhiheng
 - YANG Hao (Visiting undergraduate student from 西北工业大学)
 - YU Yinda (Visiting undergraduate student from 温州肯恩大学)
+- LI Siwei (Visiting undergraduate student from 东北农业大学)
 
 ## **Alumni**
 ### **2025**
