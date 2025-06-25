@@ -49,11 +49,9 @@
 
 ### 2025
 - <ins>Y. Hu</ins>, <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "MVMamba: A Multi-View Mamba with Tree Scanning Strategy for Remote Sensing Semantic Segmentation Taskc", acepted for publication in the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  
-
 - <ins>K. Lin</ins>, <ins>X. Ma</ins>, <ins>Q. Wu</ins> and <ins>M.O. Pun</ins>, "TAMS: Text-Assisted Multimodal Semantic Segmentation in Remote Sensing", accepted for publication in the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025. 
-
-- <ins>Y. Xie</ins>, <ins>M. Wang</ins>, D. Zhou,  <ins>M.O. Pun</ins> and Z. Han, "Dynamic Urban Air Mobility Ride-Sharing Trajectory Planning Using Radio Maps and Multi-Source Hybrid Attention Reinforcement Learning", accepted for publication in the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
-- <ins>A. Pang</ins>, <ins>M. Wang</ins>, W. Yue,  <ins>M.O. Pun</ins> and C.S. Chen, "V2X-Enabled Air-Ground Traffic Coordination for Enhancing On-Demand Air-Taxi Mobility", accepted for publication in the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
+- <ins>Y. Xie</ins>, <ins>M. Wang</ins>, D. Zhou,  <ins>M.O. Pun</ins> and Z. Han, "Dynamic Urban Air Mobility Ride-Sharing Trajectory Planning Using Radio Maps and Multi-Source Hybrid Attention Reinforcement Learning", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
+- <ins>A. Pang</ins>, <ins>M. Wang</ins>, W. Yue,  <ins>M.O. Pun</ins> and C.S. Chen, "V2X-Enabled Air-Ground Traffic Coordination for Enhancing On-Demand Air-Taxi Mobility", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
 
 ### 2024
 - <ins>X. Cui</ins>, <ins>X. Ma</ins>, <ins>M.O. Pun</ins>, and Z. Cheng, "LTTS-GAN: A Long-term Time Series Generative Adversarial Network", Proc. the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. (Received the Outstanding Paper Award) 
