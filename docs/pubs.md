@@ -2,6 +2,8 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2025
+- <ins>Q. Wu</ins>, <ins>Y. Xie</ins>, K. Wang and <ins>M.O. Pun</ins>, "Optimizing Collaborative Space-Air-Ground Earth Observation: A Decision-Making Perspective”, accepted for publication in *IEEE Geoscience and Remote Sensing Magazine*, June 2025.
+- <ins>X. Ma</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and B. Huang, "A Unified Framework with Multimodal Fine-tuning for Remote Sensing Semantic Segmentation", accepted for publication in *IEEE Trans. on Geoscience and Remote Sensing*, June 2025.
 - <ins>X. Ma</ins>, <ins>X. Cui</ins>, <ins>M.O. Pun</ins> and Z. Cheng, "TTS-GAN: A Long-term Time Series Generative Adversarial Network", accepted for publication in *Signal Processing*, June 2025.
 <!--- - <ins>Y. Hu</ins>, <ins>X. Ma</ins>, <ins>J. Sui</ins> and <ins>M.O. Pun</ins>, "PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation",  accepted for publication in *APSIPA Trans. on Signal and Information Processing*, June 2025.--->
 - Y. Yan, B. Huang, W. Wang, X. Jiang, L. Xie,  <ins>M.O. Pun</ins>, R. Guo, Y. Zhao, "Towards Vertical Urban Geometry Extraction: Occlusion-Reduced Estimation from Street View Images Using Diffusion Models", accepted for publication in *International Journal of Digital Earth*, June 2025. [[Paper Link]](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2520475?src=exp-la)

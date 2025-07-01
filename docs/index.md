@@ -5,6 +5,8 @@ hide:
 ---
 
 # **News**
+- **2025.7** Our recent paper on fCollaborative Space-Air-Ground Earth Observation (EO) has been accepted by the *IEEE Geoscience and Remote Sensing Magazine (GRSM)* (IF 16.4).  
+- **2025.6** Our recent paper on multimodal fine-tuning of visual foundation models for remote sensing has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 8.6).  
 - **2025.05** Congratulations to Ms. Yuejiao Xie, our third-year PhD student, for receiving an highly competitive IEEE WICE student grant to attend the 2025 IEEE Conference on Communications (ICC) in Montreal, Canada.
 - **2025.05** Congratulations to Ms. Yuejiao Xie for successfully passing her PhD Qualifying Exam (QE).
 - **2025.05** Congratulations to Dr. Xianping Ma for successfully defending his PhD dissertation! He will join the Southwest Jiaotong University as an Assistant Professor this summer.
