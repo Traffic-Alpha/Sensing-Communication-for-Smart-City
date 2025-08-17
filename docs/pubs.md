@@ -3,7 +3,7 @@
 ## **Journal Papers (Since 2022)**
 ### 2025
 - <ins>Q. Wu</ins>, <ins>Y. Xie</ins>, K. Wang and <ins>M.O. Pun</ins>, "Optimizing Collaborative Space-Air-Ground Earth Observation: A Decision-Making Perspective”, accepted for publication in *IEEE Geoscience and Remote Sensing Magazine*, July 2025.  [[Paper Link]](https://ieeexplore.ieee.org/document/11096407)
-- <ins>Y. Hu</ins>, <ins>X. Ma</ins>, <ins>J. Sui</ins> and <ins>M.O. Pun</ins>, "PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation",  accepted for publication in *APSIPA Trans. on Signal and Information Processing*, July 2025.
+- <ins>Y. Hu</ins>, <ins>X. Ma</ins>, <ins>J. Sui</ins> and <ins>M.O. Pun</ins>, "PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation", *APSIPA Trans. on Signal and Information Processing*, Vol. 14: No. 1, e22, Aug. 2025. [[Paper Link]](https://www.nowpublishers.com/article/Details/SIP-20250012)
 - <ins>X. Ma</ins>, <ins>X. Cui</ins>, <ins>M.O. Pun</ins> and Z. Cheng, "LTTS-GAN: A Long-term Time Series Generative Adversarial Network", *Signal Processing*, vol. 238, pp. 110161, Jan. 2026.  [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S0165168425002750?dgcid=coauthor)
 - Z. Sha, C. Li, W. Yue, N. Cheng, Y. Hui, <ins>A. Pang</ins>, <ins>M.O. Pun</ins>, Z. Sun and Y. Yang, "Pioneering Air-Ground Integrated Mobility: A Knowledge-Driven Space-Air-Ground Integrated Network for 6G On-Demand Service", accepted for publication in *IEEE Network Mag.*, Jan. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10829629)
 - <ins>X. Ma</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and B. Huang, "A Unified Framework with Multimodal Fine-tuning for Remote Sensing Semantic Segmentation", *IEEE Trans. on Geoscience and Remote Sensing*, vol. 63, pp. 1-15, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/11063320)
@@ -50,8 +50,8 @@
 ## **Conference Papers (Since 2022)**
 
 ### 2025
-- <ins>Y. Hu</ins>, <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "MVMamba: A Multi-View Mamba with Tree Scanning Strategy for Remote Sensing Semantic Segmentation Taskc", acepted for publication in the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  
-- <ins>K. Lin</ins>, <ins>X. Ma</ins>, <ins>Q. Wu</ins> and <ins>M.O. Pun</ins>, "TAMS: Text-Assisted Multimodal Semantic Segmentation in Remote Sensing", accepted for publication in the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025. 
+- <ins>Y. Hu</ins>, <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "MVMamba: A Multi-View Mamba with Tree Scanning Strategy for Remote Sensing Semantic Segmentation Taskc", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  
+- <ins>K. Lin</ins>, <ins>X. Ma</ins>, <ins>Q. Wu</ins> and <ins>M.O. Pun</ins>, "TAMS: Text-Assisted Multimodal Semantic Segmentation in Remote Sensing", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025. 
 - <ins>Y. Xie</ins>, <ins>M. Wang</ins>, D. Zhou,  <ins>M.O. Pun</ins> and Z. Han, "Dynamic Urban Air Mobility Ride-Sharing Trajectory Planning Using Radio Maps and Multi-Source Hybrid Attention Reinforcement Learning", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
 - <ins>A. Pang</ins>, <ins>M. Wang</ins>, W. Yue,  <ins>M.O. Pun</ins> and C.S. Chen, "V2X-Enabled Air-Ground Traffic Coordination for Enhancing On-Demand Air-Taxi Mobility", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
 

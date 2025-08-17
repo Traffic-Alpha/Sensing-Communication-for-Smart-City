@@ -18,18 +18,7 @@
 ## **Graduate Students**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-	<div style="flex-shrink: 0;">
-	<img src="../assets/images/members/MaXianping.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
-	</div>
-	<div>
-	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=YpIBfOkAAAAJ&hl=en" target="_self">MA Xianping</a></div>
-	<div style="font-weight: bold;">Ph.D. Student</div>
-	<div> 本科毕业院校：武汉大学</div>
-	<div>Remote Sensing, Machine Learning</div>
-	<div>Mail: <a href="mailto:xianpingma [at] link.cuhk.edu.cn">xianpingma [at] link.cuhk.edu.cn</a></div>
-	</div>
-	</div>
+
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
         <div style="flex-shrink: 0;">
             <img src="../assets/images/members/wangmaonan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
@@ -95,50 +84,69 @@
     <img src="../assets/images/members/wangziyao.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
     </div>
     <div>
-    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H5GQ1SYAAAAJ&hl=en&scioq=ding+ma+cuhksz&oi=sra" target="_self">WANG Ziyao</a></div>
-    <div style="font-weight: bold;">Ph.D. Student</div>
-    <div> 本硕毕业院校：西安电子科技大学</div>
-    <div>Remote Sensing, Cloud Removal, Machine Learning</div>
-    <div>Mail: <a href="mailto:zywang_6 [at] stu.xidian.edu.cn">zywang_6 [at] stu.xidian.edu.cn</a></div>
+    	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H5GQ1SYAAAAJ&hl=en&scioq=ding+ma+cuhksz&oi=sra" target="_self">WANG Ziyao</a></div>
+    	<div style="font-weight: bold;">Ph.D. Student</div>
+    	<div> 本硕毕业院校：西安电子科技大学</div>
+    	<div>Remote Sensing, Cloud Removal, Machine Learning</div>
+    	<div>Mail: <a href="mailto:zywang_6 [at] stu.xidian.edu.cn">zywang_6 [at] stu.xidian.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-        <div style="flex-shrink: 0;">
-            <img src="../assets/images/members/XieWeiFeng.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
-        </div>
-        <div>
-            <div style="font-weight: bold;"><a href="" target="_self">XIE Weifeng</a></div>
-            <div style="font-weight: bold;">M.Phil. Student</div>
-            <div> 本科毕业院校：武汉大学</div>
-            <div>Machine learning, IoT</div>
-            <div>Mail: <a href="mailto:xieweifeng [at] link.cuhk.edu.cn">xieweifeng [at] link.cuhk.edu.cn</a></div>
-        </div>
+    <div style="flex-shrink: 0;">
+    <img src="../assets/images/members/LuoYixin.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
     </div>
- <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-<div style="flex-shrink: 0;">
-<img src="../assets/images/members/WangSiJin.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
-</div>
-<div>
-<div style="font-weight: bold;"><a href="" target="_self">WANG Sijin</a></div>
-<div style="font-weight: bold;">M.Phil. Student</div>
-<div> 本科毕业院校：东北大学秦皇岛</div>
-<div>Machine learning, IoT</div>
-<div>Mail: <a href="mailto:xieweifeng [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
-</div>
-</div>
-</div>
-
-## **Research Assistants**
-- LUO Yixin (毕业院校：西安电子科大（本科）, 中科院（硕士）)
-- RAO Jiachen (Visiting student from University of Toronto, Canada)
+    <div>
+    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=DIfYJRgAAAAJ&hl=en&oi=sra" target="_self">LUO Yixin</a></div>
+    <div style="font-weight: bold;">Ph.D. Student</div>
+    <div> 毕业院校：西安电子科大（本科）, 中科院（硕士）</div>
+    <div>Remote Sensing, Change detection, Machine Learning</div>
+    <div>Mail: <a href="mailto:yixinluo [at] link.cuhk.edu.cn">yixinluo [at] link.cuhk.edu.cn</a></div>
+    </div>
+    </div>
+    <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+    <div style="flex-shrink: 0;">
+    <img src="../assets/images/members/WangZiyi.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+    </div>
+    <div>
+    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=vKSQ2u4AAAAJ&hl=en&oi=sra" target="_self">WANG Ziyi</a></div>
+    <div style="font-weight: bold;">Ph.D. Student</div>
+    <div> 毕业院校：武汉工程大学（本科）, 重庆大学（硕士）</div>
+    <div>Remote Sensing, Semantic Segmentation, Machine Learning</div>
+    <div>Mail: <a href="mailto:ziyiwang [at] link.cuhk.edu.cn">ziyiwang [at] link.cuhk.edu.cn</a></div>
+    </div>
+    </div>
+    <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+    <div style="flex-shrink: 0;">
+    <img src="../assets/images/members/ZhangHongyang.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
+    </div>
+    <div>
+    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=35tLJkoAAAAJ&hl=en&oi=ao" target="_self">Zhang Hongyang</a></div>
+    <div style="font-weight: bold;">Ph.D. Student</div>
+    <div> 毕业院校：云南大学（本科）, 厦门大学（硕士）</div>
+    <div>Remote Sensing, Geo-localization, Machine Learning</div>
+    <div>Mail: <a href="mailto:hongyangzhang [at] link.cuhk.edu.cn">hongyangzhang [at] link.cuhk.edu.cn</a></div>
+    </div>
+    </div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/WangSiJin.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="" target="_self">WANG Sijin</a></div>
+	<div style="font-weight: bold;">M.Phil. Student</div>
+	<div> 本科毕业院校：东北大学秦皇岛</div>
+	<div>Machine learning, IoT</div>
+	<div>Mail: <a href="mailto:224015101 [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
+	</div>
 
 ## **Undergraduate Students**
 - LI Zhiheng
 - HU Zeyun
-- ZHENG Jingze
 - YANG Hao (Visiting undergraduate student from 西北工业大学)
-- YU Yinda (Visiting undergraduate student from 温州肯恩大学)
 - LI Siwei (Visiting undergraduate student from 东北农业大学)
+- YU Yinda (Visiting undergraduate student from 温州肯恩大学)
 
 ## **Alumni**
 ### **2025**
