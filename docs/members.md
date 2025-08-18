@@ -60,7 +60,7 @@
             <img src="../assets/images/members/MaDing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">MA Ding</a></div>
+            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=V_abVbEAAAAJ&hl=en&oi=sra" target="_self">MA Ding</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：香港中文大学（深圳）</div>
             <div>Remote Sensing, Machine Learning</div>
