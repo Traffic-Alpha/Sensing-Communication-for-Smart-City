@@ -52,7 +52,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本硕毕业院校：中国地质大学（武汉）</div>
             <div>Reinforcement learning, Location coverage problems, Sensor configuration</div>
-            <div>Mail: <a href="mailto:wuqq97 [at] foxmail.com">wuqq97 [at] foxmail.com</a></div>
+            <div>Mail: <a href="mailto:222010003 [at] link.cuhk.edu.cn">222010003 [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -64,7 +64,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：香港中文大学（深圳）</div>
             <div>Remote Sensing, Machine Learning</div>
-            <div>Mail: <a href="mailto:mading2461 [at] outlook.com">mading2461 [at] outlook.com</a></div>
+            <div>Mail: <a href="mailto:119010229 [at] link.cuhk.edu.cn">119010229 [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -88,7 +88,7 @@
     	<div style="font-weight: bold;">Ph.D. Student</div>
     	<div> 本硕毕业院校：西安电子科技大学</div>
     	<div>Remote Sensing, Cloud Removal, Machine Learning</div>
-    	<div>Mail: <a href="mailto:zywang_6 [at] stu.xidian.edu.cn">zywang_6 [at] stu.xidian.edu.cn</a></div>
+    	<div>Mail: <a href="mailto:224010098 [at] link.cuhk.edu.cn">224010098 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -100,7 +100,7 @@
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 毕业院校：西安电子科大（本科）, 中科院（硕士）</div>
     <div>Remote Sensing, Change detection, Machine Learning</div>
-    <div>Mail: <a href="mailto:yixinluo [at] link.cuhk.edu.cn">yixinluo [at] link.cuhk.edu.cn</a></div>
+    <div>Mail: <a href="mailto:225010010 [at] link.cuhk.edu.cn">225010010 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -112,7 +112,7 @@
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 毕业院校：武汉工程大学（本科）, 重庆大学（硕士）</div>
     <div>Remote Sensing, Semantic Segmentation, Machine Learning</div>
-    <div>Mail: <a href="mailto:ziyiwang [at] link.cuhk.edu.cn">ziyiwang [at] link.cuhk.edu.cn</a></div>
+    <div>Mail: <a href="mailto:225010028 [at] link.cuhk.edu.cn">225010028 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -120,11 +120,11 @@
     <img src="../assets/images/members/ZhangHongyang.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
     </div>
     <div>
-    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=35tLJkoAAAAJ&hl=en&oi=ao" target="_self">Zhang Hongyang</a></div>
+    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=35tLJkoAAAAJ&hl=en&oi=ao" target="_self">ZHANG Hongyang</a></div>
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 毕业院校：云南大学（本科）, 厦门大学（硕士）</div>
     <div>Remote Sensing, Geo-localization, Machine Learning</div>
-    <div>Mail: <a href="mailto:hongyangzhang [at] link.cuhk.edu.cn">hongyangzhang [at] link.cuhk.edu.cn</a></div>
+    <div>Mail: <a href="mailto:225010032 [at] link.cuhk.edu.cn">225010032 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -137,6 +137,18 @@
 	<div> 本科毕业院校：东北大学秦皇岛</div>
 	<div>Machine learning, IoT</div>
 	<div>Mail: <a href="mailto:224015101 [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/ZhouFangbing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="" target="_self">ZHOU Fangbing</a></div>
+	<div style="font-weight: bold;">M.Phil. Student</div>
+	<div> 本科毕业院校：华南师范大学</div>
+	<div>Machine learning, IoT</div>
+	<div>Mail: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
 	</div>
