@@ -147,7 +147,7 @@
 	<div style="font-weight: bold;"><a href="" target="_self">ZHOU Fangbing</a></div>
 	<div style="font-weight: bold;">M.Phil. Student</div>
 	<div> 本科毕业院校：华南师范大学</div>
-	<div>Machine learning, IoT</div>
+	<div>Machine learning, Remote Sensing, Light pollution quantification</div>
 	<div>Mail: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
