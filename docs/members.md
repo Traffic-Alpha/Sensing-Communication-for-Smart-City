@@ -164,6 +164,8 @@
 ### **2025**
 - Dr. MA Xianping （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
 - XIE Weifeng （本科毕业院校：武汉大学）, M.Phil. student, First Job:  BYD (比亚迪)
+- HU Yin, Research Assistant （本科毕业院校：香港中文大学（深圳）, 硕士毕业院校：Rice University, U.S.A.）, First Job: Ph.D. student at University of Minnesota, Twin Cities, U.S.A.
+- LIN Kexin, Research Assistant （本硕毕业院校：北京交通大学）, First Job: Ph.D. student at 北京交通大学
 - ZHENG Jingze, Undergraduate student, First Job: Ph.D. student at the Ohio State University, U.S.A.
 - WU Yanrui, Undergraduate student, First Job: M.Phil. student at CUHKSZ
 - LI Yutao, Undergraduate student, First Job: Master student at the University of California, San Diego (UCSD), U.S.A.
