@@ -159,7 +159,7 @@
 	<div style="font-weight: bold;"><a href="" target="_self">MIAO Jifan</a></div>
 	<div style="font-weight: bold;">MSc Student</div>
 	<div> 本科毕业院校：成都电子科大</div>
-	<div>Machine learning, Remote Sensing, Light pollution quantification</div>
+	<div>Machine learning, Generative AI-based Synthetic Data Generation</div>
 	<div>Mail: <a href="mailto:jifanmiao [at] link.cuhk.edu.cn">jifanmiao [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
