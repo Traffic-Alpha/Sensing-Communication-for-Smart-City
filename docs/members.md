@@ -151,6 +151,19 @@
 	<div>Mail: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
+		<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/MiaoJifan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="" target="_self">MIAO Jifan</a></div>
+	<div style="font-weight: bold;">MSc Student</div>
+	<div> 本科毕业院校：成都电子科大</div>
+	<div>Machine learning, Remote Sensing, Light pollution quantification</div>
+	<div>Mail: <a href="mailto:jifanmiao [at] link.cuhk.edu.cn">jifanmiao [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
+	
 	</div>
 
 ## **Undergraduate Students**
