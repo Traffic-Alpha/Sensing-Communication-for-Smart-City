@@ -2,6 +2,7 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2025
+- <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "Downstream Task-Aided Cloud Removal for Ultra-High-Resolution Remote Sensing Images: An Information Loss Perspective", accepted for publication in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, Sep. 2025.
 - <ins>Q. Wu</ins>, <ins>Y. Xie</ins>, K. Wang and <ins>M.O. Pun</ins>, "Optimizing Collaborative Space-Air-Ground Earth Observation: A Decision-Making Perspective”, accepted for publication in *IEEE Geoscience and Remote Sensing Magazine*, July 2025.  [[Paper Link]](https://ieeexplore.ieee.org/document/11096407)
 - <ins>Y. Hu</ins>, <ins>X. Ma</ins>, <ins>J. Sui</ins> and <ins>M.O. Pun</ins>, "PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation", *APSIPA Trans. on Signal and Information Processing*, Vol. 14: No. 1, e22, Aug. 2025. [[Paper Link]](https://www.nowpublishers.com/article/Details/SIP-20250012)
 - <ins>X. Ma</ins>, <ins>X. Cui</ins>, <ins>M.O. Pun</ins> and Z. Cheng, "LTTS-GAN: A Long-term Time Series Generative Adversarial Network", *Signal Processing*, vol. 238, pp. 110161, Jan. 2026.  [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S0165168425002750?dgcid=coauthor)

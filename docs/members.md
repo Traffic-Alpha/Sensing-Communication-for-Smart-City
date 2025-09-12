@@ -167,8 +167,13 @@
 	</div>
 
 ## **Undergraduate Students**
-- LI Zhiheng
+- SHEN Zhengyi
+- WANG Hanwei
 - HU Zeyun
+- HE Yucheng
+- LIU Yu
+- LI Zhiheng
+- YIN Hongrui
 - YANG Hao (Visiting undergraduate student from 西北工业大学)
 - LI Siwei (Visiting undergraduate student from 东北农业大学)
 - YU Yinda (Visiting undergraduate student from 温州肯恩大学)
@@ -177,7 +182,7 @@
 ### **2025**
 - Dr. MA Xianping （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
 - XIE Weifeng （本科毕业院校：武汉大学）, M.Phil. student, First Job:  BYD (比亚迪)
-- HU Yin, Research Assistant （本科毕业院校：香港中文大学（深圳）, 硕士毕业院校：Rice University, U.S.A.）, First Job: Ph.D. student at University of Minnesota, Twin Cities, U.S.A.
+- HU Yin, Research Assistant （本科毕业院校：香港中文大学（深圳）, 硕士毕业院校：Rice University, U.S.A.）, First Job: Ph.D. student at University of Wisconsin–Madison, U.S.A.
 - LIN Kexin, Research Assistant （本硕毕业院校：北京交通大学）, First Job: Ph.D. student at 北京交通大学
 - ZHENG Jingze, Undergraduate student, First Job: Ph.D. student at the Ohio State University, U.S.A.
 - WU Yanrui, Undergraduate student, First Job: M.Phil. student at CUHKSZ
