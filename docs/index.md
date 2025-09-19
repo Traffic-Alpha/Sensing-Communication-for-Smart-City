@@ -5,7 +5,7 @@ hide:
 ---
 
 # **News**
-- **2025.09** Our recent paper on VLM-based traffic signal control has been accepted by the *NeurIPS 2025* as a poster. 
+- **2025.09** Our recent joint work on VLM-based traffic signal control with Bell-Labs, France and AI labs, Shanghai, has been accepted by the *NeurIPS 2025* as a poster. 
 - **2025.09** Our recent paper on downstream task-aided cloud removal has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 5.3). [[Paper Link]](https://ieeexplore.ieee.org/document/11165130)
 - **2025.07** Congratulations to our three PhD students, Ms. Qianqian Wu, Mr. Ziyao Wang and Mr. Ding Ma, on being awarded the highly competitive Shenzhen Universiade International Scholarship (深圳大运留学基金). This prestigious fellowship will support their short-term research visits to leading overseas institutions.
 - **2025.07** Our recent paper on collaborative Space-Air-Ground Earth Observation (EO) has been accepted by the *IEEE Geoscience and Remote Sensing Magazine (GRSM)* (IF 16.4). [[Paper Link]](https://ieeexplore.ieee.org/document/11096407)
