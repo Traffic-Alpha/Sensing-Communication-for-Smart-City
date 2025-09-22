@@ -5,6 +5,8 @@ hide:
 ---
 
 # **News**
+- **2025.09** Congratulations to our two PhD students, Mr. Maonan Wang and Mr. Aoyu Pang, for winning the first place in the Regional Traffic Signal Collaborative Control category of the Pazhou Algorithm Competition (琶洲算法大赛). [[Link]](https://www.aicompetition-pz.com/)
+- **2025.09** Our recent paper on multi-target unsupervised domain adaptation for remote sensing has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 8.6).
 - **2025.09** Our recent joint work on VLM-based traffic signal control with Bell-Labs, France and AI labs, Shanghai, has been accepted by the *NeurIPS 2025* as a poster. 
 - **2025.09** Our recent paper on downstream task-aided cloud removal has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 5.3). [[Paper Link]](https://ieeexplore.ieee.org/document/11165130)
 - **2025.07** Congratulations to our three PhD students, Ms. Qianqian Wu, Mr. Ziyao Wang and Mr. Ding Ma, on being awarded the highly competitive Shenzhen Universiade International Scholarship (深圳大运留学基金). This prestigious fellowship will support their short-term research visits to leading overseas institutions.
