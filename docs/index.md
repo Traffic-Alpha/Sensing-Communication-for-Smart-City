@@ -5,6 +5,7 @@ hide:
 ---
 
 # **News**
+- **2025.09** Congratulations to our undergraduate research assistant, Mr. Hongrui Yin, for winning the prestigious China National Scholarship (国家奖学金). He is the second undergraduate from our lab to receive this honor. 
 - **2025.09** Congratulations to our two PhD students, Mr. Maonan Wang and Mr. Aoyu Pang, for winning the first place in the Regional Traffic Signal Collaborative Control category of the Pazhou Algorithm Competition (琶洲算法大赛). [[Link]](https://www.aicompetition-pz.com/)
 - **2025.09** Our recent paper on multi-target unsupervised domain adaptation for remote sensing has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 8.6).
 - **2025.09** Our recent joint work on VLM-based traffic signal control with Bell-Labs, France and AI labs, Shanghai, has been accepted by the *NeurIPS 2025* as a poster. 

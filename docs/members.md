@@ -200,7 +200,7 @@
 - ZHANG Jiacheng, Undergraduate student, First Job: Entrepreneur
 ### **2023**
 - Dr. SHAO Wei, Postdoc. Research Associate
-- Dr. ZHANG Xiaokang, Postdoc. Fellow, Current Job: 正教授, 武汉科技大学
+- Dr. ZHANG Xiaokang, Postdoc. Fellow, Current Job: 副教授, 武汉大学
 - LIU Zixiao （本科毕业院校：北京航空航天大学）, M.Phil. student, First Job: Texas Instruments (Beijing)
 - FU Taimeng, Undergraduate student, First Job: Ph.D. student (Presidential fellow) at the State University of New York at Buffalo, U.S.A.
 - MA Ding, Undergraduate student, First Job: Ph.D. student (Presidential fellow) at the Chinese University of Hong Kong, Shenzhen, China.
