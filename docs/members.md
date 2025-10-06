@@ -228,7 +228,7 @@
 - CHEN Yifei, Visiting Master student, First Job: 超星未来科技有限公司 (清华校企合作初创公司)
 - LEI Ming, Master student, First Job: 腾讯
 - XIE Yifei, Master student, First Job: Research Assistant at CUHKSZ
-- TANG Qingqing, Undergraduate student, First Job: Ph.D. student at Queen Mary University of London, U.K.
+- TANG Jingjing, Undergraduate student, First Job: Ph.D. student at Queen Mary University of London, U.K.
 - LUO Shihao, Undergraduate student, First Job: M.Phil. Student at CUHKSZ
 - ZHANG Weilin, Undergraduate student, First Job: Master Student at Carnegie Mellon University, U.S.A.
 - XIAO Ziheng, Undergraduate student, First Job: Master Student at Georgia Institute of Technology, U.S.A.
