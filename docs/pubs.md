@@ -51,8 +51,11 @@
 
 ## **Conference Papers (Since 2022)**
 
+### 2026
+- <ins>A. Pang</ins>, C.S. Chen, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>, Y.H. Lo and W.S. Wong, "C2-SeqRL: Reinforcement Learning for Conflict-Constrained Sequence Construction", accepted for publication in the 2026 International Conference on Electronics, Information, and Communication (ICEIC), Macau, China, Jan. 18-21, 2026.
+
 ### 2025
-- <ins>M. Wang</ins>, Y. Chen, <ins>A. Pang</ins>, Y. Cai, C.S. Chen, Y. KAN, <ins>M.O. Pun</ins>, "VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture", accepted for publication at the Advances in Neural Information Processing Systems (NIPS), San Diego, U.S.A, Dec. 2-7, 2025.
+- <ins>M. Wang</ins>, Y. Chen, <ins>A. Pang</ins>, Y. Cai, C.S. Chen, Y. KAN, <ins>M.O. Pun</ins>, "VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture", Proc. the Advances in Neural Information Processing Systems (NIPS), San Diego, U.S.A, Dec. 2-7, 2025.
 - <ins>Y. Hu</ins>, <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "MVMamba: A Multi-View Mamba with Tree Scanning Strategy for Remote Sensing Semantic Segmentation Taskc", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  
 - <ins>K. Lin</ins>, <ins>X. Ma</ins>, <ins>Q. Wu</ins> and <ins>M.O. Pun</ins>, "TAMS: Text-Assisted Multimodal Semantic Segmentation in Remote Sensing", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025. 
 - <ins>Y. Xie</ins>, <ins>M. Wang</ins>, D. Zhou,  <ins>M.O. Pun</ins> and Z. Han, "Dynamic Urban Air Mobility Ride-Sharing Trajectory Planning Using Radio Maps and Multi-Source Hybrid Attention Reinforcement Learning", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  
