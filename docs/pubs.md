@@ -1,8 +1,11 @@
 # **Publications** <span style="font-size: 20px;">*（Underlined <ins>authors</ins> are current or former lab members)*</span> 
 
 ## **Journal Papers (Since 2022)**
+### 2026
+- <ins>Z. Wang</ins>, <ins>C. Pei</ins>, <ins>X. Ma</ins> and <ins> M.O. Pun</ins>, "Zero-Shot Domain Adaptation for Remote Sensing Image Classification with Vision-Language Models", accepted for publications in *Neurocomputing*, Dec. 2025.
+
 ### 2025
-- <ins>Q. Wu</ins>, <ins>Y. Xie</ins>, K. Wang and <ins>M.O. Pun</ins>, "Optimizing Collaborative Space-Air-Ground Earth Observation: A Decision-Making Perspective”, accepted for publication in *IEEE Geoscience and Remote Sensing Magazine*, July 2025.  [[Paper Link]](https://ieeexplore.ieee.org/document/11096407)
+- <ins>Q. Wu</ins>, <ins>Y. Xie</ins>, K. Wang and <ins>M.O. Pun</ins>, "Optimizing Collaborative Space-Air-Ground Earth Observation: A Decision-Making Perspective”, *IEEE Geoscience and Remote Sensing Magazine*,  vol. 13, no. 4, pp. 325-345, Dec. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/11096407)
 - <ins>Q. Wu</ins>, Y. Liu, Y. Zhong, <ins>K. Lin</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "Multi-target Unsupervised Domain Adaptation for Cross-City Local Climate Zone Classification", *IEEE Trans. on Geoscience and Remote Sensing*, vol. 63, pp. 1-21, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/11185121)
 - <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "Downstream Task-Aided Cloud Removal for Ultra-High-Resolution Remote Sensing Images: An Information Loss Perspective", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 24531-24545, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/11165130)
 - <ins>Y. Hu</ins>, <ins>X. Ma</ins>, <ins>J. Sui</ins> and <ins>M.O. Pun</ins>, "PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation", *APSIPA Trans. on Signal and Information Processing*, Vol. 14: No. 1, e22, Aug. 2025. [[Paper Link]](https://www.nowpublishers.com/article/Details/SIP-20250012)

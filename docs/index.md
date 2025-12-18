@@ -5,6 +5,7 @@ hide:
 ---
 
 # **News**
+- **2025.12** Our recent paper on fine-tuning VLMs for zero-Shot domain adaptation in remote sensing image classification has been accepted by the *Neurocomputing* (IF 6.5).  
 - **2025.12** Congratulations to our students, Maonan, Aoyu, Ricca, Zhiheng, and Yin, for winning the second prize (fifth place overall) in this year’s Tencent Kaiwu Global AI Competition. This marks the second time our team has received this honor in the contest. [[Link]]( https://aiarena.tencent.com/aiarena/zh/match/open-competition-2025/open-competition-2025-5#plate2)
 - **2025.11** Dr. Xianping Ma was recognized with the University's highest honor, the 2025 Presidential Award for Outstanding Graduate Students. He was also invited to deliver a speech at the SSE graduation ceremony. Xianping is the second member of our team to receive this prestigious award, reflecting the outstanding quality of our students.
 - **2025.09** Congratulations to our undergraduate research assistant, Mr. Hongrui Yin, for winning the prestigious China National Scholarship (国家奖学金). He is the second undergraduate from our lab to receive this honor. 
