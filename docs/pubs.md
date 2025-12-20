@@ -2,7 +2,7 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2026
-- <ins>Z. Wang</ins>, <ins>C. Pei</ins>, <ins>X. Ma</ins> and <ins> M.O. Pun</ins>, "Zero-Shot Domain Adaptation for Remote Sensing Image Classification with Vision-Language Models", accepted for publications in *Neurocomputing*, Dec. 2025.
+- <ins>Z. Wang</ins>, <ins>C. Pei</ins>, <ins>X. Ma</ins> and <ins> M.O. Pun</ins>, "Zero-Shot Domain Adaptation for Remote Sensing Image Classification with Vision-Language Models", accepted for publications in *Neurocomputing*, Dec. 2025.  [[Paper Link]]( https://www.sciencedirect.com/science/article/abs/pii/S092523122503142X)
 
 ### 2025
 - <ins>Q. Wu</ins>, <ins>Y. Xie</ins>, K. Wang and <ins>M.O. Pun</ins>, "Optimizing Collaborative Space-Air-Ground Earth Observation: A Decision-Making Perspective”, *IEEE Geoscience and Remote Sensing Magazine*,  vol. 13, no. 4, pp. 325-345, Dec. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/11096407)
