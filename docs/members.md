@@ -152,7 +152,7 @@
 	<div style="font-weight: bold;">Ph.D. Student</div>
 	<div> 毕业院校：哈尔滨工程大学（本科）, 成都电子科大 （硕士）</div>
 	<div>Wireless Communications, Machine learning</div>
-	<div>Mail: <a href="mailto:jifanmiao [at] link.cuhk.edu.cn">jifanmiao [at] link.cuhk.edu.cn</a></div>
+	<div>Mail: <a href="mailto:225010412 [at] link.cuhk.edu.cn">225010412 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
