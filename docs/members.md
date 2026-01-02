@@ -14,7 +14,23 @@
     </div>
 </div>
 
+<!-- -
+## **Postdoctoral Research Associates**
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
+<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+<div style="flex-shrink: 0;">
+<img src="../assets/images/members/wangmaonan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
+</div>
+<div>
+<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=i5uLlWIAAAAJ&hl=en&oi=ao" target="_self">Dr. YANG Zhiwei</a></div>
+<div> 博士毕业院校：澳大利亚昆士兰大学</div>
+<div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
+<div>Mail: <a href="mailto:maonanwang [at] link.cuhk.edu.cn">maonanwang [at] link.cuhk.edu.cn</a></div>
+</div>
+</div>
+</div>
+-->
 ## **Graduate Students**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -129,6 +145,18 @@
     </div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
 	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/wuhanjie.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H0Hwd5UAAAAJ&hl=en&oi=sra" target="_self">WU Hanjie</a></div>
+	<div style="font-weight: bold;">Ph.D. Student</div>
+	<div> 毕业院校：哈尔滨工程大学（本科）, 成都电子科大 （硕士）</div>
+	<div>Wireless Communications, Machine learning</div>
+	<div>Mail: <a href="mailto:jifanmiao [at] link.cuhk.edu.cn">jifanmiao [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
 	<img src="../assets/images/members/WangSiJin.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
 	</div>
 	<div>
@@ -151,32 +179,14 @@
 	<div>Mail: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
-		<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-	<div style="flex-shrink: 0;">
-	<img src="../assets/images/members/MiaoJifan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
-	</div>
-	<div>
-	<div style="font-weight: bold;"><a href="" target="_self">MIAO Jifan</a></div>
-	<div style="font-weight: bold;">MSc Student</div>
-	<div> 本科毕业院校：成都电子科大</div>
-	<div>Machine learning, Generative AI-based Synthetic Data Generation</div>
-	<div>Mail: <a href="mailto:jifanmiao [at] link.cuhk.edu.cn">jifanmiao [at] link.cuhk.edu.cn</a></div>
-	</div>
-	</div>
-	
 	</div>
 
 ## **Undergraduate Students**
-- SHEN Zhengyi
-- WANG Hanwei
-- HU Zeyun
-- HE Yucheng
 - LIU Yu
 - LI Zhiheng
 - YIN Hongrui
+- GUO Zhaonian
 - YANG Hao (Visiting undergraduate student from 西北工业大学)
-- LI Siwei (Visiting undergraduate student from 东北农业大学)
-- YU Yinda (Visiting undergraduate student from 温州肯恩大学)
 
 ## **Alumni**
 ### **2025**
