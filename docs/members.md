@@ -178,7 +178,7 @@
 
 ## **Alumni**
 ### **2026**
-- Dr. WANG Maonan （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at the Chinese University of Hong Kong, Hong Kong, China
+- Dr. WANG Maonan （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at The Chinese University of Hong Kong, Hong Kong, China
 
 ### **2025**
 - Dr. MA Xianping （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
