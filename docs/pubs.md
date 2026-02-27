@@ -2,7 +2,8 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2026
-<!-- - <ins>Z. Wang</ins>, <ins>G. Niu</ins>, Y. Tang, T.M. Lok and <ins>M.O. Pun</ins>, "ZeroSC-SR: Leveraging Data Importance for Efficient Semantic Speech Communication", accepted for publications in *IEEE Trans. on Vehicular Technology*, Dec. 2025. -->
+<!-- - <ins>A. Pang</ins>, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>,  C.S. Chen and X. Xiong, "iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement", accepted for publications in *IEEE Trans. on Vehicular Technology*, Feb. 2026. -->
+- <ins>Z. Wang</ins>, <ins>G. Niu</ins>, Y. Tang, T.M. Lok and <ins>M.O. Pun</ins>, "ZeroSC-SR: Leveraging Data Importance for Efficient Semantic Speech Communication", accepted for publications in *IEEE Trans. on Vehicular Technology*, Feb. 2026.  [[Paper Link]]( https://ieeexplore.ieee.org/document/11415303)
 - <ins>Z. Wang</ins>, <ins>C. Pei</ins>, <ins>X. Ma</ins> and <ins> M.O. Pun</ins>, "Zero-Shot Domain Adaptation for Remote Sensing Image Classification with Vision-Language Models", *Neurocomputing*, vol. 669, pp. 132470, 2026.  [[Paper Link]]( https://www.sciencedirect.com/science/article/abs/pii/S092523122503142X)
 
 ### 2025
@@ -61,8 +62,8 @@
 ### 2025
 - <ins>H. Zhang</ins>, <ins>H. Yin</ins>, <ins>Z. Wang</ins> and <ins>M.O. Pun</ins>, "NavBEV: Empowering Self-supervised UAV-based Visual Navigation through 3D BEV Representation", Proc. the 2025 IEEE International Conference on Ubiquitous Positioning Indoor Navigation and Location Based Service (UPINLBS), Shenzhen, China, Dec. 17-19, 2025. 
 - <ins>M. Wang</ins>, Y. Chen, <ins>A. Pang</ins>, Y. Cai, C.S. Chen, Y. KAN, <ins>M.O. Pun</ins>, "VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture", Proc. the Advances in Neural Information Processing Systems (NIPS), San Diego, U.S.A, Dec. 2-7, 2025. [[Paper Link]](https://openreview.net/pdf/33b72708f460f7581306147471f9fba4a0d8fd81.pdf)
-- <ins>Y. Hu</ins>, <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "MVMamba: A Multi-View Mamba with Tree Scanning Strategy for Remote Sensing Semantic Segmentation Taskc", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  
-- <ins>K. Lin</ins>, <ins>X. Ma</ins>, <ins>Q. Wu</ins> and <ins>M.O. Pun</ins>, "TAMS: Text-Assisted Multimodal Semantic Segmentation in Remote Sensing", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  
+- <ins>Y. Hu</ins>, <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "MVMamba: A Multi-View Mamba with Tree Scanning Strategy for Remote Sensing Semantic Segmentation Task", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/11243733)
+- <ins>K. Lin</ins>, <ins>X. Ma</ins>, <ins>Q. Wu</ins> and <ins>M.O. Pun</ins>, "TAMS: Text-Assisted Multimodal Semantic Segmentation in Remote Sensing", Proc. the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brisbane, Australia, August 3-8, 2025.  [[Paper Link]](https://ieeexplore.ieee.org/document/11242560) 
 - <ins>Y. Xie</ins>, <ins>M. Wang</ins>, D. Zhou,  <ins>M.O. Pun</ins> and Z. Han, "Dynamic Urban Air Mobility Ride-Sharing Trajectory Planning Using Radio Maps and Multi-Source Hybrid Attention Reinforcement Learning", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  [[Paper Link]](https://ieeexplore.ieee.org/document/11161585)
 - <ins>A. Pang</ins>, <ins>M. Wang</ins>, W. Yue,  <ins>M.O. Pun</ins> and C.S. Chen, "V2X-Enabled Air-Ground Traffic Coordination for Enhancing On-Demand Air-Taxi Mobility", Proc. the 2025 IEEE International Conference in Communications (ICC), Montreal, Canada, June 8-12, 2025.  [[Paper Link]](https://ieeexplore.ieee.org/document/11160730)
 
