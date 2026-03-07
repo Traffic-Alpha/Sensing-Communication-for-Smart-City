@@ -26,7 +26,7 @@
 <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=raWG42wAAAAJ&hl=en" target="_self">Dr. YANG Zhiwei</a></div>
 <div> 博士毕业院校：澳大利亚昆士兰大学</div>
 <div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
-<div>Mail: <a href="mailto:zhiweiyang0227[at]gmail.com">zhiweiyang0227[at]gmail.com</a></div>
+<div>Mail: <a href="mailto:zhiweiyang0227 [at] gmail.com">zhiweiyang0227 [at] gmail.com</a></div>
 </div>
 </div>
 </div>
