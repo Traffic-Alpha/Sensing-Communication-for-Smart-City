@@ -2,8 +2,8 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2026
-<!-- - <ins>A. Pang</ins>, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>,  C.S. Chen and X. Xiong, "iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement", accepted for publications in *IEEE Trans. on Vehicular Technology*, Feb. 2026. -->
-- <ins>Z. Wang</ins>, <ins>G. Niu</ins>, Y. Tang, T.M. Lok and <ins>M.O. Pun</ins>, "ZeroSC-SR: Leveraging Data Importance for Efficient Semantic Speech Communication", *IEEE Trans. on Vehicular Technology*, Feb. 2026. (JCR Q1, IF 6.1) [[Paper Link]]( https://ieeexplore.ieee.org/document/11415303)
+- <ins>A. Pang</ins>, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>,  C.S. Chen and X. Xiong, "iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement", accepted for publications in *IEEE Trans. on Vehicular Technology*, (JCR Q1, IF 6.1) March 2026. 
+- <ins>Z. Wang</ins>, <ins>G. Niu</ins>, Y. Tang, T.M. Lok and <ins>M.O. Pun</ins>, "ZeroSC-SR: Leveraging Data Importance for Efficient Semantic Speech Communication", accepted for publications in *IEEE Trans. on Vehicular Technology*, Feb. 2026. (JCR Q1, IF 6.1) [[Paper Link]]( https://ieeexplore.ieee.org/document/11415303)
 - <ins>Z. Wang</ins>, <ins>C. Pei</ins>, <ins>X. Ma</ins> and <ins> M.O. Pun</ins>, "Zero-Shot Domain Adaptation for Remote Sensing Image Classification with Vision-Language Models", *Neurocomputing*, vol. 669, pp. 132470, 2026. (JCR Q1, IF 6.5) [[Paper Link]]( https://www.sciencedirect.com/science/article/abs/pii/S092523122503142X)
 
 ### 2025
