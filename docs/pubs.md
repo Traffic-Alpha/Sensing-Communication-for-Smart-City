@@ -2,7 +2,7 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2026
-- <ins>A. Pang</ins>, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>,  C.S. Chen and X. Xiong, "iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement", accepted for publication in *IEEE Trans. on Vehicular Technology*, (JCR Q1, IF 6.1) March 2026. 
+- <ins>A. Pang</ins>, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>,  C.S. Chen and X. Xiong, "iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement", accepted for publication in *IEEE Trans. on Vehicular Technology*, (JCR Q1, IF 6.1) March 2026. [[Paper Link]]( https://ieeexplore.ieee.org/document/11434951)
 - <ins>Z. Wang</ins>, <ins>G. Niu</ins>, Y. Tang, T.M. Lok and <ins>M.O. Pun</ins>, "ZeroSC-SR: Leveraging Data Importance for Efficient Semantic Speech Communication", accepted for publication in *IEEE Trans. on Vehicular Technology*, Feb. 2026. (JCR Q1, IF 6.1) [[Paper Link]]( https://ieeexplore.ieee.org/document/11415303)
 - <ins>Z. Wang</ins>, <ins>C. Pei</ins>, <ins>X. Ma</ins> and <ins> M.O. Pun</ins>, "Zero-Shot Domain Adaptation for Remote Sensing Image Classification with Vision-Language Models", *Neurocomputing*, vol. 669, pp. 132470, 2026. (JCR Q1, IF 6.5) [[Paper Link]]( https://www.sciencedirect.com/science/article/abs/pii/S092523122503142X)
 
@@ -57,6 +57,7 @@
 ## **Conference Papers (Since 2022)**
 
 ### 2026
+- <ins>M. Wang</ins>, <ins>Y. Xie</ins>, Y. Zhang, Y. Chen, C.S. Chen, and <ins>M.O. Pun</ins>, "6G-Enabled Heterogeneous Multi-Scale Transformer for Cooperative Multi-Agent Traffic Signal Control", accepted for publication in the 2026 IEEE International Conference in Communications (ICC), Glasgow, United Kingdom, May 24-28, 2026. 
 - <ins>A. Pang</ins>, C.S. Chen, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>, Y.H. Lo and W.S. Wong, "C2-SeqRL: Reinforcement Learning for Conflict-Constrained Sequence Construction", Proc. the 2026 International Conference on Electronics, Information, and Communication (ICEIC), Macau, China, Jan. 18-21, 2026.
 
 ### 2025
