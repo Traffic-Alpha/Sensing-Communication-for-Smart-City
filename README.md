@@ -8,6 +8,27 @@
 
 This repository contains the website for the **Laboratory of Sensing and Communication for Smart City**.
 
+## Getting Started on a New Computer
+
+### 1. Install Git
+Download and install Git from: https://git-scm.com/install/
+
+### 2. Clone the Repository
+Replace `YOUR_USERNAME` with your actual GitHub username, then run:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Sensing-Communication-for-Smart-City.git
+cd Sensing-Communication-for-Smart-City
+```
+
+### 3. Submit Changes
+```bash
+git pull
+git add .
+git commit -m "Describe your changes"
+git push
+```
+
 ## Installation
 
 To modify the website content, you need to install the MkDocs with the Material theme. Install it using pip:
