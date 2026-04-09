@@ -13,15 +13,32 @@ This repository contains the website for the **Laboratory of Sensing and Communi
 ### 1. Install Git
 Download and install Git from: https://git-scm.com/install/
 
-### 2. Clone the Repository
+### 2. Configure SSH for GitHub
+Generate a new SSH key (or skip if you already have one):
+
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+When prompted, press Enter to accept the default file location and enter a passphrase.
+
+Add the SSH key to your GitHub account:
+1. Copy the public key to your clipboard:
+   ```bash
+   cat ~/.ssh/id_ed25519.pub
+   ```
+2. Go to **GitHub Settings → SSH and GPG keys → New SSH key**
+3. Paste the key and give it a title (e.g., "My Laptop")
+
+### 3. Clone the Repository
 Replace `YOUR_USERNAME` with your actual GitHub username, then run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sensing-Communication-for-Smart-City.git
+git clone git@github.com:YOUR_USERNAME/Sensing-Communication-for-Smart-City.git
 cd Sensing-Communication-for-Smart-City
 ```
 
-### 3. Submit Changes
+### 4. Submit Changes
 ```bash
 git pull
 git add .
