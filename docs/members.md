@@ -170,7 +170,7 @@
 	</div>
 
 ## **Undergraduate Students**
-- LIU Yu
+- HU Zeyun
 - LI Zhiheng
 - YIN Hongrui
 - GUO Zhaonian
