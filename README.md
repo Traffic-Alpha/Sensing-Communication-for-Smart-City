@@ -8,6 +8,44 @@
 
 This repository contains the website for the **Laboratory of Sensing and Communication for Smart City**.
 
+## Getting Started on a New Computer
+
+### 1. Install Git
+Download and install Git from: https://git-scm.com/install/
+
+### 2. Configure SSH for GitHub
+Generate a new SSH key (or skip if you already have one):
+
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+When prompted, press Enter to accept the default file location and enter a passphrase.
+
+Add the SSH key to your GitHub account:
+1. Copy the public key to your clipboard:
+   ```bash
+   cat ~/.ssh/id_ed25519.pub
+   ```
+2. Go to **GitHub Settings → SSH and GPG keys → New SSH key**
+3. Paste the key and give it a title (e.g., "My Laptop")
+
+### 3. Clone the Repository
+Replace `YOUR_USERNAME` with your actual GitHub username, then run:
+
+```bash
+git clone git@github.com:YOUR_USERNAME/Sensing-Communication-for-Smart-City.git
+cd Sensing-Communication-for-Smart-City
+```
+
+### 4. Submit Changes
+```bash
+git pull
+git add .
+git commit -m "Describe your changes"
+git push
+```
+
 ## Installation
 
 To modify the website content, you need to install the MkDocs with the Material theme. Install it using pip:
