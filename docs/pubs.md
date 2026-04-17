@@ -59,7 +59,7 @@
 
 ### 2026
 - <ins>Z. Hu</ins>, <ins>Y. Xie</ins>, <ins>Z. Li</ins>, <ins>M. Wang</ins> and <ins>M.O. Pun</ins>, "AdaUMon: Adaptive UAV Monitoring with Trajectory-Temporal and Target-Relational Representation via Reinforcement Learning", accepted for publication in the 2026 20th IEEE International Conference on Control and Automation (ICCA), Almaty, Kazakhsta, June 16-19, 2026. (Invited paper)
-- <ins>Z. Wang</ins>, <ins>X. Ma</ins>, <ins>Z. Wang</ins>, <ins>H. Zhang</ins> and <ins>M.O. Pun</ins>, "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing SceneSegmentation", accepted for publication in the 2026 Conference on Computer Vision and Pattern Recognition (CVPR)-Finding, Denver, U.S.A., Jun. 3-7, 2026. 
+- <ins>Z. Wang</ins>, <ins>X. Ma</ins>, <ins>Z. Wang</ins>, <ins>H. Zhang</ins> and <ins>M.O. Pun</ins>, "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation", accepted for publication in the 2026 Conference on Computer Vision and Pattern Recognition (CVPR)-Findings, Denver, U.S.A., Jun. 3-7, 2026. 
 - <ins>M. Wang</ins>, <ins>Y. Xie</ins>, Y. Zhang, Y. Chen, C.S. Chen, and <ins>M.O. Pun</ins>, "6G-Enabled Heterogeneous Multi-Scale Transformer for Cooperative Multi-Agent Traffic Signal Control", accepted for publication in the 2026 IEEE International Conference in Communications (ICC), Glasgow, United Kingdom, May 24-28, 2026. 
 - <ins>A. Pang</ins>, C.S. Chen, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>, Y.H. Lo and W.S. Wong, "C2-SeqRL: Reinforcement Learning for Conflict-Constrained Sequence Construction", Proc. the 2026 International Conference on Electronics, Information, and Communication (ICEIC), Macau, China, Jan. 18-21, 2026.
 
