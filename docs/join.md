@@ -1,7 +1,5 @@
 # **Join Us**
 
-test
-
 <div align=center>
     <img src='../assets/images/groupphoto.jpg' style="width: 70%">
 </div>
