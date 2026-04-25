@@ -218,7 +218,7 @@
 ### **2021**
 - Dr. CAO Qi, Postdoc. Fellow, Current Job: Nokia (Hangzhou)
 - Dr. NIU Guanchong, Ph.D. student, Current Job: (华山副教授) Associate Professor, Xidian University.
-- ZHANG Qianyu, （本科毕业院校：东北大学秦皇岛）, M.Phil. student, First Job:
+- ZHANG Qianyu, （本科毕业院校：东北大学秦皇岛）, M.Phil. student, Current Job: BYD (比亚迪)
 - ZHAO Tong, Master student, First Job: 京东
 - WU Lan, Undergraduate student, First Job: Ph.D. student at the National University of Singapore (NUS)
 - WANG Zewei, Undergraduate student, Current Job: Ph.D. student at the Chinese University of Hong Kong, Hong Kong, China.
