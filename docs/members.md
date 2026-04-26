@@ -178,10 +178,10 @@
 
 ## **Alumni**
 ### **2026**
-- Dr. WANG Maonan （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at The Chinese University of Hong Kong, Hong Kong, China
+- <a href="https://wangmn.cn/" target="_self">Dr. WANG Maonan</a> （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at The Chinese University of Hong Kong, Hong Kong, China
 
 ### **2025**
-- Dr. MA Xianping （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
+- <a href="https://faculty.swjtu.edu.cn/maxianping/zh_CN/index.htm" target="_self">Dr. MA Xianping</a> （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
 - XIE Weifeng （本科毕业院校：武汉大学）, M.Phil. student, First Job:  BYD (比亚迪)
 - HU Yin, Research Assistant （本科毕业院校：香港中文大学（深圳）, 硕士毕业院校：Rice University, U.S.A.）, First Job: Ph.D. student at University of Wisconsin–Madison, U.S.A.
 - LIN Kexin, Research Assistant （本硕毕业院校：北京交通大学）, First Job: Ph.D. student at 北京交通大学
@@ -217,7 +217,7 @@
 - LUO Wenyan, Undergraduate student, First Job: Ph.D. student at the Ohio State University, U.S.A.
 ### **2021**
 - Dr. CAO Qi, Postdoc. Fellow, Current Job: Nokia (Hangzhou)
-- Dr. NIU Guanchong, Ph.D. student, Current Job: (华山副教授) Associate Professor, Xidian University.
+- <a href="https://faculty.xidian.edu.cn/NGC/zh_CN/index.htm" target="_self">Dr. NIU Guanchong</a>, Ph.D. student, Current Job: (华山副教授) Associate Professor, Xidian University.
 - ZHANG Qianyu, （本科毕业院校：东北大学秦皇岛）, M.Phil. student, Current Job: BYD (比亚迪)
 - ZHAO Tong, Master student, First Job: 京东
 - WU Lan, Undergraduate student, First Job: Ph.D. student at the National University of Singapore (NUS)
