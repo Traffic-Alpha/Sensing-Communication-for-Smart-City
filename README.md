@@ -4,9 +4,9 @@
  * @Description: README for Website
  * @LastEditTime: 2024-07-28 00:52:28
 -->
-# Laboratory of Sensing and Communication for Smart City
+# Laboratory of Sensing and Communication for Smart Cities
 
-This repository contains the website for the **Laboratory of Sensing and Communication for Smart City**.
+This repository contains the website for the **Laboratory of Sensing and Communication for Smart Cities**.
 
 ## Getting Started on a New Computer
 
