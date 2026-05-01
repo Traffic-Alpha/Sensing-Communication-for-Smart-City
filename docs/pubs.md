@@ -58,6 +58,7 @@
 ## **Conference Papers (Since 2022)**
 
 ### 2026
+- <ins>H. Zhang</ins>, <ins>M. Wang</ins>, <ins>Z. Wang</ins>, <ins>H. Yin</ins>, <ins>M.O. Pun</ins>, "InfoGeo: Information-Theoretic Object-Centric Learning for Cross-View Generalizable UAV Geo-Localization", accepted for publication in the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, July 6-11, 2026.
 - <ins>Z. Wang</ins>, <ins>X. Ma</ins> and <ins>M.O. Pun</ins>, "Comprehensively Focused Remote Sensing Scene Segmentation via VFM and MLLM Collaboration", accepted for publication in the Fourteenth IEEE Sensor Array and Multichannel Signal Processing Workshop, Shenzhen, China, July 13-16, 2026.
 - <ins>Z. Hu</ins>, <ins>Y. Xie</ins>, <ins>Z. Li</ins>, <ins>M. Wang</ins> and <ins>M.O. Pun</ins>, "AdaUMon: Adaptive UAV Monitoring with Trajectory-Temporal and Target-Relational Representation via Reinforcement Learning", accepted for publication in the 2026 20th IEEE International Conference on Control and Automation (ICCA), Almaty, Kazakhsta, June 16-19, 2026. (Invited paper)
 - <ins>Z. Wang</ins>, <ins>X. Ma</ins>, <ins>Z. Wang</ins>, <ins>H. Zhang</ins> and <ins>M.O. Pun</ins>, "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation", accepted for publication in the 2026 Conference on Computer Vision and Pattern Recognition (CVPR)-Findings, Denver, U.S.A., Jun. 3-7, 2026. 
