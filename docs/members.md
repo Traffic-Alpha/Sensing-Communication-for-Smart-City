@@ -178,8 +178,14 @@
 
 ## **Alumni**
 ### **2026**
+- Dr. XIE Yuejiao（毕业院校：深圳大学（本科）, 香港中文大学（深圳）（硕士））, Ph.D. student, First Job: Huawei
 - <a href="https://wangmn.cn/" target="_self">Dr. WANG Maonan</a> （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at The Chinese University of Hong Kong, Hong Kong, China
-
+- HU Zeyun, Undergraduate student, First Job: Master student at the Chinese University of Hong Kong, Hong Kong, China
+- SHEN Zhengyi, Undergraduate student, First Job: Master student at the University of California, San Diego (UCSD), U.S.A.
+- GUO Zhaonian, Undergraduate student, First Job: Ph.D. student at 上海交通大学(保研生)
+- LIU Yu, Undergraduate student, First Job: Master student at the Carnegie Mellon University (CMU), U.S.A.
+- WANG Hanwei, Undergraduate student, First Job: Master student at the Carnegie Mellon University (CMU), U.S.A.
+- YANG Chen, Undergraduate student, First Job: Master student at the Carnegie Mellon University (CMU), U.S.A.
 ### **2025**
 - <a href="https://faculty.swjtu.edu.cn/maxianping/zh_CN/index.htm" target="_self">Dr. MA Xianping</a> （本科毕业院校：武汉大学）, Ph.D. student, First Job: Assistant Professor at the Southwest Jiaotong University, China
 - XIE Weifeng （本科毕业院校：武汉大学）, M.Phil. student, First Job:  BYD (比亚迪)
