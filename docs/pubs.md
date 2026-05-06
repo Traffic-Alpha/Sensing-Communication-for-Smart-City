@@ -2,6 +2,7 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2026
+- <ins>Y. Luo</ins>, <ins>Q. Wu</ins>, X. Li and <ins>M.O. Pun</ins>, "Diffusion-Based Synthetic Data Generation and Fusion for Landslide Change Detection", accepted for publication in *Neurocomputing*, May 2026. (JCR Q1, IF 6.5) 
 - <ins>A. Pang</ins>, <ins>M. Wang</ins>, Z. Sha, W. Yue, C. Li, C.S. Chen and <ins>M.O. Pun</ins>, "Heterogeneous Vertiport Selection Optimization for On-Demand Air Taxi Services: A Deep Reinforcement Learning Approach", accepted for publication in *IEEE Trans. on Intelligent Transportation Systems*, (JCR Q1, IF 8.4) Mar. 2026. [[Paper Link]]( https://ieeexplore.ieee.org/document/11481610)
 - <ins>A. Pang</ins>, <ins>M. Wang</ins>, <ins>M.O. Pun</ins>,  C.S. Chen and X. Xiong, "iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement", accepted for publication in *IEEE Trans. on Vehicular Technology*, (JCR Q1, IF 6.1) March 2026. [[Paper Link]]( https://ieeexplore.ieee.org/document/11434951)
 - <ins>Z. Wang</ins>, <ins>G. Niu</ins>, Y. Tang, T.M. Lok and <ins>M.O. Pun</ins>, "ZeroSC-SR: Leveraging Data Importance for Efficient Semantic Speech Communication", accepted for publication in *IEEE Trans. on Vehicular Technology*, Feb. 2026. (JCR Q1, IF 6.1) [[Paper Link]]( https://ieeexplore.ieee.org/document/11415303)

@@ -5,6 +5,7 @@ hide:
 ---
 
 # **News**
+- **2025.5** Our recent paper on synthesizing remote sensing data for landslide change detection using diffusion models has been accepted by *Neurocomputing* (IF 6.5). 
 - **2026.5** Our recent work on cross-view (UAV-satellite) geo-localization has been accepted as a regular paper at *ICML 2026*, one of the top three conferences in machine learning.
 - **2026.4** Congratulations to Dr. Yuejiao Xie for successfully defending her PhD dissertation! She will join Huawei after graduation.
 - **2026.3** Our recent paper on the effective integration of existing ground transportation with Urban Air Mobility (UAM) for the low-altitude economy using reinforcement learning has been accepted by the *IEEE Trans. on Intelligent Transportation Systems (T-ITS)* (IF 8.4).  [[Paper Link]]( https://ieeexplore.ieee.org/document/11481610)
