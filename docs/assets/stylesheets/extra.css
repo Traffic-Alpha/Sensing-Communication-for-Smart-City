@@ -59,6 +59,15 @@
 .tx-hero h1 {
   font-size: 2.41rem !important;
 }
+
+.md-typeset h1.compact-section-title {
+  margin-bottom: 0.25rem;
+}
+
+.md-typeset h1.compact-section-title + ul {
+  margin-top: 0.25rem;
+}
+
 a.md-button.md-button--primary {
   background-color: var(--md-accent-fg-color);
   border-color: var(--md-accent-fg-color);
