@@ -34,30 +34,6 @@
 ## **Graduate Students**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-        <div style="flex-shrink: 0;">
-            <img src="../assets/images/members/wuqianqian.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
-        </div>
-        <div>
-            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=qXgwZswAAAAJ&hl=en&oi=ao" target="_self">WU Qianqian</a></div>
-            <div style="font-weight: bold;">Ph.D. Student</div>
-            <div> 本硕毕业院校：中国地质大学（武汉）</div>
-            <div>Reinforcement learning, Location coverage problems, Sensor configuration</div>
-            <div>Mail: <a href="mailto:222010003 [at] link.cuhk.edu.cn">222010003 [at] link.cuhk.edu.cn</a></div>
-        </div>
-    </div>
-    <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
-        <div style="flex-shrink: 0;">
-            <img src="../assets/images/members/MaDing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
-        </div>
-        <div>
-            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=V_abVbEAAAAJ&hl=en&oi=sra" target="_self">MA Ding</a></div>
-            <div style="font-weight: bold;">Ph.D. Student</div>
-            <div> 本科毕业院校：香港中文大学（深圳）</div>
-            <div>Remote Sensing, Machine Learning</div>
-            <div>Mail: <a href="mailto:119010229 [at] link.cuhk.edu.cn">119010229 [at] link.cuhk.edu.cn</a></div>
-        </div>
-    </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
         <div style="flex-shrink: 0;">
             <img src="../assets/images/members/PangAoYu.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
@@ -130,6 +106,18 @@
 	<div>Mail: <a href="mailto:225010412 [at] link.cuhk.edu.cn">225010412 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
+	 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/MaDing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=V_abVbEAAAAJ&hl=en&oi=sra" target="_self">MA Ding</a></div>
+	<div style="font-weight: bold;">M.Phil. Student</div>
+	<div> 本科毕业院校：香港中文大学（深圳）</div>
+	<div>Remote Sensing, Machine Learning</div>
+	<div>Mail: <a href="mailto:119010229 [at] link.cuhk.edu.cn">119010229 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
 	<div style="flex-shrink: 0;">
 	<img src="../assets/images/members/WangSiJin.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
@@ -157,12 +145,16 @@
 	</div>
 
 ## **Undergraduate Students**
-- YIN Hongrui
-- GUO Zhaonian
 - YANG Hao (Visiting undergraduate student from 西北工业大学)
+- ZHAO Junyi (Visiting undergraduate student from 武汉大学)
+- ZHU Zimeng (Visiting undergraduate student from 哈工大)
+- XIANG Pengda (Visiting undergraduate student from 四川大学)
+- ZHANG Xinyue (Visiting undergraduate student from 山东大学)
+- LI Conghao (Visiting undergraduate student from 北京邮电大学)
 
 ## **Alumni**
 ### **2026**
+- <a href="https://scholar.google.com/citations?user=qXgwZswAAAAJ&hl=en&oi=ao" target="_self">Dr. WU Qianqian</a>（毕业院校：本硕毕业院校：中国地质大学（武汉））, Ph.D. student, First Job: 
 - <a href="https://scholar.google.com/citations?user=BiSmGpwAAAAJ&hl=en&oi=ao" target="_self">Dr. XIE Yuejiao</a>（毕业院校：深圳大学（本科）, 香港中文大学（深圳）（硕士））, Ph.D. student, First Job: Huawei
 - <a href="https://wangmn.cn/" target="_self">Dr. WANG Maonan</a> （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at The Chinese University of Hong Kong, Hong Kong, China
 - LIU Yu, Undergraduate student, First Job: Master student at the Carnegie Mellon University (CMU), U.S.A.
