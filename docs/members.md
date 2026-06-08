@@ -151,6 +151,7 @@
 - XIANG Pengda (Visiting undergraduate student from 四川大学)
 - ZHANG Xinyue (Visiting undergraduate student from 山东大学)
 - LI Conghao (Visiting undergraduate student from 北京邮电大学)
+- HE Chengze (Visiting undergraduate student from 山东大学)
 
 ## **Alumni**
 ### **2026**

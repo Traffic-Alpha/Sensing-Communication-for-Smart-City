@@ -8,6 +8,7 @@ hide:
 - **Statement on the Termination of Cooperation of the CUHKSZ–MizarVision Remote Sensing Technology Joint Laboratory (2026.5.9):** In light of changes to the basis of cooperation and subsequent development directions between the two parties, and following careful consideration and friendly consultations, The Chinese University of Hong Kong, Shenzhen and MizarVision Technology have jointly decided to formally terminate the cooperation of the "CUHKSZ – MizarVision Remote Sensing Technology Joint Laboratory" effective from the date of issuance of this statement.The Joint Laboratory is hereby cancelled with immediate effect.
 
 # **News** { .compact-section-title }
+- **2026.6** Our recent CVPR paper, titled "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation" has received the CVPR Compute Transparency Champion Award — the highest honor within CVPR 2026's Compute Reporting Initiative.
 - **2026.5** Congratulations to Dr. Qianqian Wu for successfully defending her PhD dissertation! 
 - **2026.5** Our recent paper on synthesizing remote sensing data for landslide change detection using diffusion models has been accepted by *Neurocomputing* (IF 6.5). [[Paper Link]](https://doi.org/10.1016/j.neucom.2026.133873)
 - **2026.5** Our recent work on cross-view (UAV-satellite) geo-localization has been accepted as a regular paper at *ICML 2026*, one of the top three conferences in machine learning.
