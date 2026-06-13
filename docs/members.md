@@ -152,6 +152,7 @@
 - ZHANG Xinyue (Visiting undergraduate student from 山东大学)
 - LI Conghao (Visiting undergraduate student from 北京邮电大学)
 - HE Chengze (Visiting undergraduate student from 山东大学)
+- XIANG Yancheng (Visiting master student from the University of Illinois Urbana-Champaign, U.S.A.)
 
 ## **Alumni**
 ### **2026**
