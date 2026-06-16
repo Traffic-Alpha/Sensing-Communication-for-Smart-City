@@ -161,7 +161,7 @@
 - <a href="https://wangmn.cn/" target="_self">Dr. WANG Maonan</a> （本硕毕业院校：北京邮电大学）, Ph.D. student, First Job: Postdoctal Research Associate at The Chinese University of Hong Kong, Hong Kong, China
 - LIU Yu, Undergraduate student, First Job: Master student at the Carnegie Mellon University (CMU), U.S.A.
 - GUO Zhaonian, Undergraduate student, First Job: Ph.D. student at 上海交通大学(保研生)
-- SHEN Zhengyi, Undergraduate student, First Job: Entrepreneur
+- SHEN Zhengyi, Undergraduate student, First Job: ZTE (中兴通讯)
 - WANG Hanwei, Undergraduate student, First Job: Master student at the Chinese University of Hong Kong, Hong Kong, China
 - HU Zeyun, Undergraduate student, First Job: Master student at the Chinese University of Hong Kong, Hong Kong, China
 ### **2025**
