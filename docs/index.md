@@ -8,7 +8,8 @@ hide:
 - **Statement on the Termination of Cooperation of the CUHKSZ–MizarVision Remote Sensing Technology Joint Laboratory (2026.5.9):** In light of changes to the basis of cooperation and subsequent development directions between the two parties, and following careful consideration and friendly consultations, The Chinese University of Hong Kong, Shenzhen and MizarVision Technology have jointly decided to formally terminate the cooperation of the "CUHKSZ – MizarVision Remote Sensing Technology Joint Laboratory" effective from the date of issuance of this statement.The Joint Laboratory is hereby cancelled with immediate effect.
 
 # **News** { .compact-section-title }
-- **2026.6** Prof. Pun has been named Associate Editor for IEEE JSTARS (JCR Q1, IF: 5.3), published by the IEEE Geoscience and Remote Sensing Society (GRSS).
+- **2026.6** Prof. Pun has been appointed as an Associate Editor for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JCR Q1, IF: 5.3), published by the IEEE Geoscience and Remote Sensing Society (GRSS).
+- **2026.6** Our recent work on cloud removal for remote sensing images has been accepted as a regular paper at *ECCV 2026*. This year, 2,883 out of 10,473 submissions were accepted.
 - **2026.6** Our recent CVPR paper, titled "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation" has received the CVPR Compute Transparency Champion Award — the highest honor within CVPR 2026's Compute Reporting Initiative.
 - **2026.5** Congratulations to Dr. Qianqian Wu for successfully defending her PhD dissertation! 
 - **2026.5** Our recent paper on synthesizing remote sensing data for landslide change detection using diffusion models has been accepted by *Neurocomputing* (IF 6.5). [[Paper Link]](https://doi.org/10.1016/j.neucom.2026.133873)
