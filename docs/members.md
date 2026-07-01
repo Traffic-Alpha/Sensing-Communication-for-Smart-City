@@ -153,6 +153,7 @@
 - LI Conghao (Visiting undergraduate student from 北京邮电大学)
 - HE Chengze (Visiting undergraduate student from 山东大学)
 - XIANG Yancheng (Visiting master student from the University of Illinois Urbana-Champaign, U.S.A.)
+- WEI Jiaqi (Visiting master student from The University of Hong Kong)
 
 ## **Alumni**
 ### **2026**
