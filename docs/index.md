@@ -5,7 +5,7 @@ hide:
 ---
 
 # **News** { .compact-section-title }
-- **2026.6** Prof. Pun has been appointed as an Associate Editor for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JCR Q1, IF: 5.3), published by the IEEE Geoscience and Remote Sensing Society (GRSS).
+- **2026.6** Prof. Pun has been appointed as an Associate Editor for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JCR Q1, IF: 6.3), published by the IEEE Geoscience and Remote Sensing Society (GRSS).
 - **2026.6** Our recent work on cloud removal for remote sensing images has been accepted as a regular paper at *ECCV 2026*. This year, 2,883 out of 10,473 submissions were accepted.
 - **2026.6** Our recent CVPR paper, titled "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation" has received the CVPR Compute Transparency Champion Award — the highest honor within CVPR 2026's Compute Reporting Initiative.
 - **2026.5** Congratulations to Dr. Qianqian Wu for successfully defending her PhD dissertation! 
