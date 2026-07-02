@@ -10,7 +10,8 @@
         <div style="font-weight: bold;"><a href="../pi/" target="_self">Prof. Simon Pun</a></div>
         <div style="font-weight: bold;">Lab Director</div>
         <div>Wireless Communications, IoT, Remote Sensing, Machine Learning</div>
-        <div>Mail: <a href="mailto:simonpun [at] cuhk.edu.cn">simonpun [at] cuhk.edu.cn</a></div>
+        <div> <a href="https://scholar.google.com/citations?user=h82gvswAAAAJ&hl=en" target="_self">Google Scholar</a></div>
+        <div>Email: <a href="mailto:simonpun [at] cuhk.edu.cn">simonpun [at] cuhk.edu.cn</a></div>
     </div>
 </div>
 
@@ -26,7 +27,7 @@
 <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=raWG42wAAAAJ&hl=en" target="_self">Dr. YANG Zhiwei</a></div>
 <div> 博士毕业院校：澳大利亚昆士兰大学</div>
 <div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
-<div>Mail: <a href="mailto:zhiweiyang0227 [at] gmail.com">zhiweiyang0227 [at] gmail.com</a></div>
+<div>Email: <a href="mailto:zhiweiyang0227 [at] gmail.com">zhiweiyang0227 [at] gmail.com</a></div>
 </div>
 </div>
 </div>
@@ -43,7 +44,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：南京航空航天大学</div>
             <div>Reinforcement Learning, Intelligent Transportation</div>
-            <div>Mail: <a href="mailto:aoyupang [at] link.cuhk.edu.cn">aoyupang [at] link.cuhk.edu.cn</a></div>
+            <div>Email: <a href="mailto:aoyupang [at] link.cuhk.edu.cn">aoyupang [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -55,7 +56,7 @@
     	<div style="font-weight: bold;">Ph.D. Student</div>
     	<div> 本硕毕业院校：西安电子科技大学</div>
     	<div>Remote Sensing, Cloud Removal, Machine Learning</div>
-    	<div>Mail: <a href="mailto:224010098 [at] link.cuhk.edu.cn">224010098 [at] link.cuhk.edu.cn</a></div>
+    	<div>Email: <a href="mailto:224010098 [at] link.cuhk.edu.cn">224010098 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -67,7 +68,7 @@
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 毕业院校：西安电子科大（本科）, 中科院（硕士）</div>
     <div>Remote Sensing, Change detection, Machine Learning</div>
-    <div>Mail: <a href="mailto:225010010 [at] link.cuhk.edu.cn">225010010 [at] link.cuhk.edu.cn</a></div>
+    <div>Email: <a href="mailto:225010010 [at] link.cuhk.edu.cn">225010010 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -79,7 +80,7 @@
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 毕业院校：武汉工程大学（本科）, 重庆大学（硕士）</div>
     <div>Remote Sensing, Semantic Segmentation, Machine Learning</div>
-    <div>Mail: <a href="mailto:225010028 [at] link.cuhk.edu.cn">225010028 [at] link.cuhk.edu.cn</a></div>
+    <div>Email: <a href="mailto:225010028 [at] link.cuhk.edu.cn">225010028 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -91,7 +92,7 @@
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 毕业院校：云南大学（本科）, 厦门大学（硕士）</div>
     <div>Remote Sensing, Geo-localization, Machine Learning</div>
-    <div>Mail: <a href="mailto:225010032 [at] link.cuhk.edu.cn">225010032 [at] link.cuhk.edu.cn</a></div>
+    <div>Email: <a href="mailto:225010032 [at] link.cuhk.edu.cn">225010032 [at] link.cuhk.edu.cn</a></div>
     </div>
     </div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -103,7 +104,7 @@
 	<div style="font-weight: bold;">Ph.D. Student</div>
 	<div> 毕业院校：哈尔滨工程大学（本科）, 成都电子科大 （硕士）</div>
 	<div>Wireless Communications, Machine learning</div>
-	<div>Mail: <a href="mailto:225010412 [at] link.cuhk.edu.cn">225010412 [at] link.cuhk.edu.cn</a></div>
+	<div>Email: <a href="mailto:225010412 [at] link.cuhk.edu.cn">225010412 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
 	 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -115,7 +116,7 @@
 	<div style="font-weight: bold;">M.Phil. Student</div>
 	<div> 本科毕业院校：香港中文大学（深圳）</div>
 	<div>Remote Sensing, Machine Learning</div>
-	<div>Mail: <a href="mailto:119010229 [at] link.cuhk.edu.cn">119010229 [at] link.cuhk.edu.cn</a></div>
+	<div>Email: <a href="mailto:119010229 [at] link.cuhk.edu.cn">119010229 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -127,7 +128,7 @@
 	<div style="font-weight: bold;">M.Phil. Student</div>
 	<div> 本科毕业院校：东北大学秦皇岛</div>
 	<div>Machine learning, IoT</div>
-	<div>Mail: <a href="mailto:224015101 [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
+	<div>Email: <a href="mailto:224015101 [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -139,7 +140,7 @@
 	<div style="font-weight: bold;">M.Phil. Student</div>
 	<div> 本科毕业院校：华南师范大学</div>
 	<div>Machine learning, Remote Sensing, Light pollution quantification</div>
-	<div>Mail: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
+	<div>Email: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
 	</div>
