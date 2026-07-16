@@ -102,7 +102,7 @@
 	<div>
 	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H0Hwd5UAAAAJ&hl=en&oi=sra" target="_self">WU Hanjie</a></div>
 	<div style="font-weight: bold;">Ph.D. Student</div>
-	<div> 毕业院校：哈尔滨工程大学（本科）, 成都电子科大 （硕士）</div>
+	<div> 毕业院校：哈尔滨工程大学（本科）, 电子科技大学（硕士）</div>
 	<div>Wireless Communications, Machine learning</div>
 	<div>Email: <a href="mailto:225010412 [at] link.cuhk.edu.cn">225010412 [at] link.cuhk.edu.cn</a></div>
 	</div>
@@ -126,7 +126,7 @@
 	<div>
 	<div style="font-weight: bold;"><a href="" target="_self">WANG Sijin</a></div>
 	<div style="font-weight: bold;">M.Phil. Student</div>
-	<div> 本科毕业院校：东北大学秦皇岛</div>
+	<div> 本科毕业院校：东北大学（秦皇岛）</div>
 	<div>Machine learning, IoT</div>
 	<div>Email: <a href="mailto:224015101 [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
 	</div>
