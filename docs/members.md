@@ -107,6 +107,18 @@
 	<div>Email: <a href="mailto:225010412 [at] link.cuhk.edu.cn">225010412 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/wuhanjie.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H0Hwd5UAAAAJ&hl=en&oi=sra" target="_self">YANG Hao</a></div>
+	<div style="font-weight: bold;">Ph.D. Student</div>
+	<div> 毕业院校：西北工业大学（本科）</div>
+	<div>Satellite Onboard Computing, Machine learning</div>
+	<div>Email: <a href="mailto:226010351 [at] link.cuhk.edu.cn">226010351 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
 	 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
 	<div style="flex-shrink: 0;">
 	<img src="../assets/images/members/MaDing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
@@ -143,19 +155,41 @@
 	<div>Email: <a href="mailto:224015083 [at] link.cuhk.edu.cn">224015083 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/LiSiwei.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="" target="_self">LI Siwei</a></div>
+	<div style="font-weight: bold;">M.Phil. Student</div>
+	<div> 本科毕业院校：东北农业大学</div>
+	<div>Machine learning, Remote Sensing, InSAR</div>
+	<div>Email: <a href="mailto:226015049 [at] link.cuhk.edu.cn">226015049 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/ZhangMengqi.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=KP73Xn4AAAAJ&hl=zh-CN&authuser=1" target="_self">ZHANG Mengqi</a></div>
+	<div style="font-weight: bold;">M.Phil. Student</div>
+	<div> 本科毕业院校：山东大学（威海）</div>
+	<div>Machine learning, Remote Sensing, Light pollution quantification</div>
+	<div>Email: <a href="mailto:226015084 [at] link.cuhk.edu.cn">226015084 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
 	</div>
 
 ## **Undergraduate Students**
-- YANG Hao (Visiting undergraduate student from 西北工业大学)
+- YIN Hongrui (ECE undergraduate student)
+- LI Xiaohang (ECE undergraduate student)
+- LIN Shan (ECE undergraduate student)
+- ZHONG Chenhao (ECE undergraduate student)
 - ZHAO Junyi (Visiting undergraduate student from 武汉大学)
-- ZHU Zimeng (Visiting undergraduate student from 哈工大)
-- XIANG Pengda (Visiting undergraduate student from 四川大学)
 - ZHANG Xinyue (Visiting undergraduate student from 山东大学)
-- LI Conghao (Visiting undergraduate student from 北京邮电大学)
-- HE Chengze (Visiting undergraduate student from 山东大学)
+- LIAN Haoyi (Visiting undergraduate student from 西交利物浦大学)
 - XU Mingyu (Visiting undergraduate student from 东南大学)
-- XIANG Yancheng (Visiting master student from the University of Illinois Urbana-Champaign, U.S.A.)
-- WEI Jiaqi (Visiting master student from The University of Hong Kong)
 
 ## **Alumni**
 ### **2026**
