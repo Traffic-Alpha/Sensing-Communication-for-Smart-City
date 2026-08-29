@@ -109,17 +109,17 @@
 	</div>
 	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
 	<div style="flex-shrink: 0;">
-	<img src="../assets/images/members/wuhanjie.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	<img src="../assets/images/members/YangHao.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
 	</div>
 	<div>
-	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H0Hwd5UAAAAJ&hl=en&oi=sra" target="_self">YANG Hao</a></div>
+	<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=Q69ovroAAAAJ&hl=en" target="_self">YANG Hao</a></div>
 	<div style="font-weight: bold;">Ph.D. Student</div>
 	<div> 毕业院校：西北工业大学（本科）</div>
 	<div>Satellite Onboard Computing, Machine learning</div>
 	<div>Email: <a href="mailto:226010351 [at] link.cuhk.edu.cn">226010351 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
-	 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
 	<div style="flex-shrink: 0;">
 	<img src="../assets/images/members/MaDing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
 	</div>
@@ -183,7 +183,6 @@
 
 ## **Undergraduate Students**
 - YIN Hongrui (ECE undergraduate student)
-- LI Xiaohang (ECE undergraduate student)
 - LIN Shan (ECE undergraduate student)
 - ZHONG Chenhao (ECE undergraduate student)
 - ZHAO Junyi (Visiting undergraduate student from 武汉大学)
