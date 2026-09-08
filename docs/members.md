@@ -191,6 +191,18 @@
 	<div>Email: <a href="mailto:226010040 [at] link.cuhk.edu.cn">226010040 [at] link.cuhk.edu.cn</a></div>
 	</div>
 	</div>
+	<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+	<div style="flex-shrink: 0;">
+	<img src="../assets/images/members/XinJiayang.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+	</div>
+	<div>
+	<div style="font-weight: bold;"><a href="" target="_self">XIN Jiayang</a></div>
+	<div style="font-weight: bold;">Master Student</div>
+	<div> 本科毕业院校：电子科技大学</div>
+	<div>Intelligent Transportation System (ITS)</div>
+	<div>Email: <a href="mailto:226010158 [at] link.cuhk.edu.cn">226010158 [at] link.cuhk.edu.cn</a></div>
+	</div>
+	</div>
 	</div>
 
 ## **Undergraduate Students**
