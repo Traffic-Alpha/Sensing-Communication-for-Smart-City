@@ -1,7 +1,7 @@
 # **Publications** <span style="font-size: 20px;">*（Underlined <ins>authors</ins> are current or former lab members)*</span> 
 
 ## **Books**
-- <ins>M.O. Pun</ins> and <ins>X. Zhang</ins>, Eds. *Multimodal Remote Sensing Fusion and Classification: Algorithms and Applications*, Elsevier, Earth Observation Series, September 2026, 405 pages, ISBN: 978-0-443-29152-4. [[Amazon Link]](https://www.amazon.com/Multimodal-Remote-Sensing-Fusion-Classification/dp/0443291527)
+- <ins>M.O. Pun</ins> and <ins>X. Zhang</ins>, Eds. *Multimodal Remote Sensing Fusion and Classification: Algorithms and Applications*, Elsevier, Earth Observation Series, September 2026, 405 pages, ISBN: 978-0-443-29152-4. [[Elsevier Link]](https://shop.elsevier.com/books/multimodal-remote-sensing-fusion-and-classification/pun/978-0-443-29152-4)
 
 ## **Journal Papers (Since 2022)**
 ### 2026
