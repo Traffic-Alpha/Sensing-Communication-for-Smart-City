@@ -7,7 +7,7 @@
 
 ## **Details**
 <iframe
-  src="../assets/pdf/projects2025.pdf"
+  src="../assets/pdf/projects2026.pdf"
   width="100%"
   height="800px"
 ></iframe>
