@@ -5,6 +5,7 @@ hide:
 ---
 
 # **News** { .compact-section-title }
+- **2026.9** Our recent paper on a controllable and extensible benchmark designed to evaluate and improve multimodal models’ reasoning in traffic scenes has been accepted by the *NeurIPS 2026* as a poster. 
 - **2026.8** Our recent paper on diffusion-based landslide image synthesis has been accepted by *ISPRS Journal of Photogrammetry and Remote Sensing* (IF 12.9). [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S0924271626003965)
 - **2026.7** Our recent paper on KAN-based semantic segmentation for remote sensing images has been accepted by *IEEE Trans. on Geoscience and Remote Sensing* (IF 9.4).  [[Paper Link]](https://ieeexplore.ieee.org/document/11615317)
 - **2026.6** Prof. Pun has been appointed as an Associate Editor for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JCR Q1, IF: 6.3), published by the IEEE Geoscience and Remote Sensing Society (GRSS).
