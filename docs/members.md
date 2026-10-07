@@ -30,6 +30,17 @@
 <div>Email: <a href="mailto:zhiweiyang0227 [at] gmail.com">zhiweiyang0227 [at] gmail.com</a></div>
 </div>
 </div>
+<div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+<div style="flex-shrink: 0;">
+<img src="../assets/images/members/XiliangLI.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
+</div>
+<div>
+<div style="font-weight: bold;"><a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=niyjPgoAAAAJ" target="_self">Dr. LI Xiliang</a></div>
+<div> 博士毕业院校：湖南大学</div>
+<div>Remote sensing, Machine Learning, Caption Generation</div>
+<div>Email: <a href="mailto:lixiliang [at] hnu.edu.cn">lixiliang [at] hnu.edu.cn</a></div>
+</div>
+</div>
 </div>
 
 ## **Graduate Students**
@@ -211,8 +222,6 @@
 - ZHONG Chenhao (ECE undergraduate student)
 - ZHAO Junyi (Visiting undergraduate student from 武汉大学)
 - ZHANG Xinyue (Visiting undergraduate student from 山东大学)
-- LIAN Haoyi (Visiting undergraduate student from 西交利物浦大学)
-- XU Mingyu (Visiting undergraduate student from 东南大学)
 
 ## **Alumni**
 ### **2026**
